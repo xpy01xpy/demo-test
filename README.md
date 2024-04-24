@@ -1,28 +1,13 @@
-# 创建时间 2024年04月24日17:55:03
-# test
-# dist / 文件夹
+# Hello word
 
-# hello-test
 
-## Project setup
-```
-npm install
-```
+[点击进入主页](https://xpy01xpy.github.io/demo-test/dist "主页")
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<a 
+  href="https://xpy01xpy.github.io/demo-test/dist" 
+  title="Google Search" 
+  target="_blank"
+  style="color: red; text-decoration: none;"
+>
+  主页
+</a>
